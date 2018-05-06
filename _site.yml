@@ -1,0 +1,9 @@
+name: "Kişilik Özellikleri"
+output_dir: "."
+navbar:
+  title: "Kişilik Özellikleri"
+  left:
+    - text: "Anasayfa"
+      href: index.html
+    - text: "Çalışmamız Hakkında"
+      href: about.html
