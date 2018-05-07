@@ -10,6 +10,3 @@ navbar:
     - text: "Araştırma Sonuçlarımız"
       href: project.html
       
-output:
-  html_document:
-    theme: flatly
