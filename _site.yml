@@ -7,3 +7,9 @@ navbar:
       href: index.html
     - text: "Çalışmamız Hakkında"
       href: about.html
+    - text: "Araştırma Sonuçlarımız"
+      href: project.html
+      
+output:
+  html_document:
+    theme: flatly
