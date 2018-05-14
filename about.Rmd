@@ -8,7 +8,7 @@ Siyasal katılım eylemi nihai olarak siyasal hayatı ve liderlerin kararların�
 
 Bu bağlamda önerilen araştırmamız Türkiye’deki seçmen kitlesinde kişilik özelliklerinin siyasal katılım davranışlarına olabilecek etkisinin ölçümünü amaçlamaktadır. 
 
-Bir bireyin yemek alışkanlığı, çeşitli müzik türlerine olan beğenisi, kıyafet tercihi, yürüyüş şekli, tokalaşma tarzı ve sosyal etkileşimde kullanmış olduğu hal ve tutumlara dair bilgimiz o bireyin dünya görüşünü tahmin etmemize yardımcı olmaktadır. Ayrıca, bahsi geçen bilgiler aynı kişinin özel ve kamusal hayatına dair diğer davranışlar bütününü de öngörmemizi sağlar (Gosling, 2008; Gerber vd., 2009: 3, 2010: 111). 
+Bir bireyin yemek alışkanlığı, çeşitli müzik türlerine olan beğenisi, kıyafet tercihi, yürüyüş şekli, tokalaşma tarzı ve sosyal etkileşimde kullanmış olduğu hal ve tutumlara dair bilgimiz o bireyin dünya görüşünü tahmin etmemize yardımcı olmaktadır. Ayrıca, bahsi geçen bilgiler aynı kişinin özel ve kamusal hayatına dair diğer davranışlar bütününü de öngörmemizi sağlar (Gosling, 2008; Gerber vd., 2009: 3, 2010: 111). Buradaki temel varsayım, bahsi geçen tutumlar ve davranışlar bütününün bireyin kişilik tipiyle bağlantılı olmasıdır.
 
 Kişilik özellikleri yazını içerisinde Beş Büyük Kişilik Özelliği yaklaşımında belli başlı sayıdaki sıfatların bireylere uygunluğu sorulmaktadır. Bu sorgulamadan elde edilen veriler istatistiki analiz yardımı (faktör analizi) ile kullanılan sıfatlara bağlı olan kişilik özelliklerini tanımlayan kişilik boyutları belirlenmektedir.
 
@@ -28,8 +28,8 @@ Table: Tablo 1: Beş Büyük Kişilik Özelliği
    
 *Tablo 1'in uyarlandığı kaynaklar şöyledir: John, Naumann, ve Soto (2008); Ha, Kim, ve Jo (2013: 514); Weinschenk (2017: 3). 
 
-
-Sayfa içerisinde atıfta bulunulan kaynaklar:
+<br>
+<u>Sayfa içerisinde atıfta bulunulan kaynaklar:</u>
 
 [1] Gerber, A. S. vd. 2009. “Reassessing the Effects of Personality on Political Attitudes and Behaviors: Aggregate Relationships and Subgroup Differences”.
                 https://ssrn.com/abstract=1412839 ya da http://dx.doi.org/10.2139/ssrn.1412839
