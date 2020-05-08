@@ -32,3 +32,4 @@ Peki, kişilik özellikleri, toplumsal güven, yaş, eğitim ve cinsiyet arasın
 
 ![<b>Şekil 4.</b> İkili (Pearson) korelasyon sonuçları.](corr.png)
 <b><i>Not:</i></b> $\alpha$ = 0.01 altında kalan doğrusal ilişkilerin palet rengi beyazlaştırılmıştır. İlgili her bir değişkende eksiksiz veriye sahip olan katılımcılar hesaba katılmıştır. 
+
