@@ -8,39 +8,35 @@ Siyasal katılım eylemi nihai olarak siyasal hayatı ve liderlerin kararların�
 
 Bu bağlamda önerilen araştırmamız Türkiye’deki seçmen kitlesinde kişilik özelliklerinin siyasal katılım davranışlarına olabilecek etkisinin ölçümünü amaçlamaktadır. 
 
-Bir bireyin yemek alışkanlığı, çeşitli müzik türlerine olan beğenisi, kıyafet tercihi, yürüyüş şekli, tokalaşma tarzı ve sosyal etkileşimde kullanmış olduğu hal ve tutumlara dair bilgimiz o bireyin dünya görüşünü tahmin etmemize yardımcı olmaktadır. Ayrıca, bahsi geçen bilgiler aynı kişinin özel ve kamusal hayatına dair diğer davranışlar bütününü de öngörmemizi sağlar (Gosling, 2008; Gerber vd., 2009: 3, 2010: 111). Buradaki temel varsayım, bahsi geçen tutumlar ve davranışlar bütününün bireyin kişilik tipiyle bağlantılı olmasıdır.
+Bir bireyin yemek alışkanlığı, çeşitli müzik türlerine olan beğenisi, kıyafet tercihi, yürüyüş şekli, tokalaşma tarzı ve sosyal etkileşimde kullanmış olduğu hal ve tutumlara dair bilgimiz o bireyin dünya görüşünü tahmin etmemize yardımcı olmaktadır. Ayrıca, bahsi geçen bilgiler aynı kişinin özel ve kamusal hayatına dair diğer davranışlar bütününü de öngörmemizi sağlar (Gosling, Rentfrow, & Swann Jr, 2008; Gerber, Huber, Doherty, Downling, & Ha, 2010). Buradaki temel varsayım, bahsi geçen tutumlar ve davranışlar bütününün bireyin kişilik tipiyle bağlantılı olmasıdır.
 
-Kişilik özellikleri yazını içerisinde Beş Büyük Kişilik Özelliği yaklaşımında belli başlı sayıdaki sıfatların bireylere uygunluğu sorulmaktadır. Bu sorgulamadan elde edilen veriler istatistiki analiz yardımı (faktör analizi) ile kullanılan sıfatlara bağlı olan kişilik özelliklerini tanımlayan kişilik boyutları belirlenmektedir.
+Kişilik özellikleri yazını içerisinde <i>Beş Büyük Kişilik Özelliği</i> yaklaşımında belli başlı sayıdaki sıfatların bireylere uygunluğu sorulmaktadır. Bu sorgulamadan elde edilen veriler istatistiki analiz yardımı (faktör analizi) ile kullanılan sıfatlara bağlı olan kişilik özelliklerini tanımlayan kişilik boyutları belirlenmektedir.
 
-Beş Büyük Kişilik Özelliği yaklaşımının öngördüğü kişilik özellikleri (1) dışadönüklük, (2) yumuşak başlılık, (3) öz denetim / sorumluluk, (4) duygusal dengesizlik ve (5) gelişime açıklıktır. İlgili özelliklerinin parametreleri Tablo 1’deki gibidir.* 
+<i>Beş Büyük Kişilik Özelliği</i> yaklaşımının öngördüğü kişilik özellikleri (1) <i>Dışadönüklük</i>, (2) <i>Yumuşak Başlılık</i>, (3) <i>Öz Denetimlilik</i> / <i>Sorumluluk</i>, (4) <i>Duygusal Dengesizlik</i> ve (5) <i>Gelişime Açıklıktır</i>. İlgili özelliklerinin parametreleri Tablo 1’deki gibidir. 
 
-|Parametreler | Dışadönüklük | Yumuşak Başlılık | Öz Denetim / Sorumluluk | Duygusal Dengesizlik | Gelişime Açıklık|
+|Parametreler | Dışadönüklük | Yumuşak Başlılık | Öz Denetimlilik / Sorumluluk | Duygusal Dengesizlik | Gelişime Açıklık|
 :------------| :------------| :------------| :------------| :------------| :------------|
 |Tanım | Faal bir şekilde sosyal yaşama ve dünyaya yaklaşım | Karşıt görüşlülere karşı sosyal açıdan yararlı davranışlar ve toplumsal bir yönelim geliştirme | Toplumsal dürtü denetiminin salık verdiği ve olanak sağladığı görev ve hedef yönelimli davranışlar | Duygusal istikrara ve soğukkanlılığa karşın negatif duygusallık | Bireyin zihinsel gelişiminin ve tecrübelerinin genişliği, derinliği, özgünlüğü ve karmaşıklığı |
 |Bileşenler | Sokulganlık; Girişkenlik/Liderlik; Sosyal Endişeden Ziyade Sosyal Güven | Narsisizmden Ziyade Alçakgönüllülük; Şüpheden Ziyade Güven; Empati ve Sempati; Diğerkâmlık | Düzenlilik; Çalışkanlık;  Öz Disiplin | Sinirlilik; Depresyon; Dalgınlık-Zorlanımlılık | Düşünürlük; İdealizm; Gözüpeklik |
 |Yüksek [Olasılıkla Gösterilmesi Beklenen] Özellik | Gruplarda ve liderlik pozisyonlarında yüksek sosyal konumlar; [davalarda] jüri üyeliği seçimi; olumlu duygu ifadesi; çok sayıda arkadaş ve partnerler | Çalışma gruplarında daha iyi performans | Daha yüksek akademik not ortalamaları; daha iyi iş performansı; tedaviye yönelik rejim/perhizlere uyma; daha uzun yaşam süresi | Hastalıklarla başa çıkmada zayıf kalma ve kötü tepkiler gösterme; Tükenmişlik ve iş değişiklikleri deneyimleri | Daha fazla tamamlanan eğitim yılları; yaratıcılık testlerinde daha iyi performans; sanatsal işlerde başarı; farklı görünümlü iş ve ev ortamları yaratma |
 |[Gösterilme Olasılığının En] Düşük [Olduğu] Özellik | Ebeveynlerle zayıf ilişkiler; akranlar tarafından reddedilme | Kardiyovasküler hastalıklarına maruz kalma, çocuk yaşta işlenen suçlar, kişiler arası problemler riskleri | Sigara, madde bağımlılığı, zayıf diyet ve egzersiz alışkanlıkları; Dikkat eksikliği / Hiperaktivite Bozukluğu | Çalışılan yapılara bağlılık hissetmek; Daha fazla ilişki doyumu | Muhafazakâr partinin muhafazakâr tutumları ve tercihleri |
-Table: Tablo 1: Beş Büyük Kişilik Özelliği
+Table: <span style="color: black;"><b>Tablo 1.</b> Beş Büyük Kişilik Özelliği</span>
 
 ---
    
    
    
-*Tablo 1'in uyarlandığı kaynaklar şöyledir: John, Naumann, ve Soto (2008); Ha, Kim, ve Jo (2013: 514); Weinschenk (2017: 3). 
+<b><i>Not:</i></b> Tablo 1'in uyarlandığı kaynaklar şöyledir: John, Naumann, & Soto (2008); Ha, Kim, & Jo (2013, s. 514); Weinschenk (2017). 
 
 <br>
 <u>Sayfa içerisinde atıfta bulunulan kaynaklar:</u>
+ 
+[1] Gerber, A. S., Huber, G. A., Doherty, D., Dowling, C. M., & Ha, S. E. (2010). Personality and political attitudes: relationships across issue domains and political contexts. <i>American Political Science Review</i>, <i>104</i>(1), 111-133. https://doi.org/10.1017/S0003055410000031
 
-[1] Gerber, A. S. vd. 2009. “Reassessing the Effects of Personality on Political Attitudes and Behaviors: Aggregate Relationships and Subgroup Differences”.
-                https://ssrn.com/abstract=1412839 ya da http://dx.doi.org/10.2139/ssrn.1412839
-                Son erişim tarihi: 24 Ağustos 2017. 
+[2] Gosling, S. D., Rentfrow, P. J., & Swann Jr, W. B. (2003). A very brief measure of the big-five personality domains. <i>Journal of Research in Personality</i>, <i>37</i>, 504-528. https://doi.org/10.1016/S0092-6566(03)00046-1 
 
-[2] Gerber, A. S. 2010. “Personality and Political Attitudes: Relationships across Issue Domains and Political Contexts”, The American Political Science Review, 104(1), 111-133.
+[3] Ha, S. E., Kim, S., & Jo, S. H. (2013). Personality traits and political participation: Evidence from South Korea. <i>Political Psychology</i>, <i>34</i>(4), 511-532. https://doi.org/10.1111/pops.12008
 
-[3] Gosling, S. D. 2003. “A Very Brief Measure of the Big-Five Personality Domains”, Journal of Research in Personality, 37, 504-528.
+[4] John, O. P., Naumann, L. P. and Soto, C. J. (2008). Paradigm shift to the integrative big five trait taxonomy: History, measurement and conceptual issues. In: O. P. John, R. W. Robins and L. A. Pervin (eds.) Handbook of Personality: Theory and Research (3rd Ed.). New York: Guilford, pp. 114-158.
 
-[4] Ha, S. E., Kim, S., Jo, S. H. 2013. “Personality Traits and Political Participation: Evidence from South Korea”, Political Psychology, 34(4), 511-532.
-
-[5] John, O. P., Naumann, L. P., Soto, C. J. 2008. “Paradigm Shift to the Integrative Big Five Trait Taxonomy: History, Measurement, and Conceptual Issues”. Handbook of Personality: Theory and Research. Editörler: John, O. P., Robins, R. W., Pervin, L. A. New York: Guilford Press.
-
-[6] Weinschenk, A. C. 2017. “Big Five Personality Traits, Political Participation, and Civic Engagement: Evidence from 24 Countries”, Social Science Quarterly, 1-16.
+[5] Weinschenk, A. C. (2017). Big five personality traits, political participation, and civic engagement: Evidence from 24 countries. <i>Social Science Quarterly</i>, <i>98</i>(5), 1406-1421. https://doi.org/10.1111/ssqu.12380

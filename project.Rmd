@@ -20,7 +20,7 @@ title: "Araştırma Sonuçlarımız"
 
 <br>
 
-Anketimizde dikkat çeken bulgulardan birisi düşük toplumsal güven seviyesidir. 0 (Tedbiri hiçbir zaman elden bırakmamak gerekir) – 10 (Çoğu insana güvenilebilir) ölçeğinde, katılımcıların genelde insanların çoğunluğuna duyduğu güven düzeyi 2.2’dir. Yaş (18-24, 25-29, 30+), cinsiyet (kadın-erkek) ve eğitim (lise mezunu ve altı – üniversite mezunu ve üstü) değişkenlerini kendi aralarında sınıflandırdığımızda, dikkat çeken bir alt bulgu ise şöyledir: 18-24 yaş aralığında ya da 30 ve üstü bir yaşta olan, lise mezunu veya altı bir eğitim düzeyine sahip kadınlar nispeten düşük seyreden ortalamanın da altında bir sosyal güven düzeyine sahiptir (bkz. Şekil 3). 
+Anketimizde dikkat çeken bulgulardan birisi düşük toplumsal güven seviyesidir. 0 (Tedbiri hiçbir zaman elden bırakmamak gerekir) – 10 (Çoğu insana güvenilebilir) ölçeğinde, katılımcıların genelde insanların çoğunluğuna duyduğu güven düzeyi 2.22’dir. Yaş (18-24, 25-29, 30+), cinsiyet (kadın-erkek) ve eğitim (lise mezunu ve altı – üniversite mezunu ve üstü) değişkenlerini kendi aralarında sınıflandırdığımızda, dikkat çeken bir alt bulgu ise şöyledir: 18-24 yaş aralığında ya da 30 ve üstü bir yaşta olan, lise mezunu veya altı bir eğitim düzeyine sahip kadınlar nispeten düşük seyreden ortalamanın da altında bir sosyal güven düzeyine sahiptir (bkz. Şekil 3). 
 
 ![<b>Şekil 3.</b> Katılımcıların yaş, cinsiyet ve eğitim sınıflandırmalarına göre göstermiş oldukları toplumsal güven seviyesi.](social_trust.png)
 
