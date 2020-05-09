@@ -10,6 +10,8 @@ title: "Araştırma Sonuçlarımız"
 
 ![<b>Şekil 1.</b> Katılımcıların yaş, cinsiyet ve eğitim gruplarına göre göstermiş oldukları dağılım.](table.png)
 
+<b><i>Not:</i></b> Görsel amaçlar için yüzde değerleri virgülden sonra 2 basamağa indirilmiştir. 
+
 <br>
 
 0 (Tamamen yanlış) – 10 (Tamamen doğru) ölçeğinde <i>Beş Büyük Kişilik Özellikleri</i> (44 Kalemlik) envanterini yanıtlayan katılımcıların ortalama <i>Gelişime Açıklık</i> düzeyi 7.5, <i>Öz Denetimlilik</i> düzeyi 6.2, <i>Dışadönüklük</i> düzeyi 6.7, <i>Yumuşak Başlılık</i> düzeyi 7.5 ve <i>Duygusal Dengesizlik</i> düzeyi 4.5’dir. Her bir kişilik özelliği alt bileşeninin ortalama düzeyi ise Şekil 2’deki gibidir. 
