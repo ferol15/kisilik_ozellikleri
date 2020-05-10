@@ -3,7 +3,15 @@ title: "Araştırma Sonuçlarımız"
 ---
 
 ---
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166022435-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'UA-166022435-1');
+</script>
 <b>ÖNEMLİ:</b> Bu sayfanın nihai amacı seçili değişkenlere dair betimleyici istatistiklerin paylaşılmasıdır. Dolayısıyla, ilgili her bir değişkenin kuramsal ve görgül değerlendirmesi ve testi burada yapılmayacaktır. Daha fazla bilgi için lütfen araştırma asistanı Fatih Erol (e-posta: ferol15@ku.edu.tr) ile iletişime geçiniz.
 
 <b>Temsili olmayan</b>  ilk internet anketi çalışmamız 15-23 Haziran 2018 tarihleri aralığında gerçekleştirilmiştir. Araştırmamıza toplamda 18 yaş ve üstünde 2629 kişi katılmıştır. Katılımcıların yaş, cinsiyet ve eğitim gruplarına göre göstermiş oldukları dağılım Şekil 1’deki gibidir.
