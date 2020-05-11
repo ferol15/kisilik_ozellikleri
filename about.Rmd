@@ -2,7 +2,6 @@
 title: "Çalışmamız Hakkında"
 ---
 
----
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-166022435-1"></script>
 <script>
@@ -12,6 +11,9 @@ title: "Çalışmamız Hakkında"
 
   gtag('config', 'UA-166022435-1');
 </script>
+
+<br>
+
 Siyasal katılım eylemi nihai olarak siyasal hayatı ve liderlerin kararlarını etkileme amacı güder ve siyasal hayatın her alanında yansımaları görülebilir. Çalışmamız siyasal katılımı bireylerin kişilik özellikleriyle ilintilendirmeyi hedeflemektedir. Bu şekilde siyaset bilimi ve psikolojinin temel iki alanını aynı çatı altında irdelemeyi amaçlamaktayız. 
 
 Bu bağlamda önerilen araştırmamız Türkiye’deki seçmen kitlesinde kişilik özelliklerinin siyasal katılım davranışlarına olabilecek etkisinin ölçümünü amaçlamaktadır. 
