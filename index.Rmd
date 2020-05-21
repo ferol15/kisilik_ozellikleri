@@ -22,6 +22,8 @@ Bu ön çalışma bir internet anketi niteliğindedir. Çalışmamızın nihai h
 
 Çalışmamız hakkında daha fazla bilgi için, <a href="http://kisilikozellikleri.com/about.html">Çalışmamız Hakkında </a>sayfasına bakabilirsiniz. 2018 yılında gerçekleştirdiğimiz temsili olmayan ilk internet anketi çalışmamız hakkında kısa bir bilgi edinmek içinse, <a href="http://kisilikozellikleri.com/project.html">Araştırma Sonuçlarımız </a>sayfasına bakabilirsiniz.
 
+<a href="http://koc.ca1.qualtrics.com/jfe/form/SV_eWlEDS9SEKjJxhX">Anketimize katılmak için lütfen buraya tıklayınız.</a> 
+
 Yardımlarınız ve ilginiz için teşekkür ederiz. Saygılarımızla,
 
 ---
